@@ -2,6 +2,9 @@
 
 This is a calendar application built using Java and JavaFX. It allows the user to select a month and year, and displays a calendar for that month. The user can also enter text for a specific date and save it, so that the text can be retrieved when the same month and year are selected.
 
+## Demo
+<img width="617" alt="ללא שם 6" src="https://user-images.githubusercontent.com/120474850/225109285-e737ddbf-fe47-4e4f-a21c-254938cd3927.png">
+
 ## Requirements
 
 - Java Development Kit (JDK) 8 or later
